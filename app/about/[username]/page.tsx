@@ -11,7 +11,7 @@ async function Page({ params }: PageProps) {
 
   return (
     <div>
-      {username}'s about page!
+      catches one dynamic routes! , with "[]"
     </div>
   );
 }

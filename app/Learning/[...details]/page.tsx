@@ -3,7 +3,7 @@ import React from 'react'
 function page() {
   return (
     <div>
-      Make hand written notes for next js better!!🐼 
+      catches all dynamic routes! , with "[...]"
     </div>
   )
 }

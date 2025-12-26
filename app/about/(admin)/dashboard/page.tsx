@@ -3,7 +3,7 @@ import React from 'react'
 function page() {
   return (
     <div>
-      Make hand written notes for next js better!!🐼 
+      skips the folder name in the url! , with "()"
     </div>
   )
 }
